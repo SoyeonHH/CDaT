@@ -1,0 +1,6 @@
+__pycache__
+*.bin.
+*.txt
+*.pt
+*.pkl
+*.csv
