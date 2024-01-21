@@ -5,7 +5,7 @@
 
 
 ## Paper
-**Cross-Modal Dynamic Transfer Learning for Multi-Modal Emotion Recognition**
+**Cross-Modal Dynamic Transfer Learning for Multi-Modal Emotion Recognition** (Accepted at IEEE Access)
 
 
 
